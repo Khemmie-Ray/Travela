@@ -1,0 +1,19 @@
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 96.83%;
+top: 4.76%;
+bottom: 12.95%;
+
+background: #1251CB;
+/* Overlay */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #1251CB;
+mix-blend-mode: multiply;
