@@ -1,19 +1,67 @@
-/* Vector */
+body{
+    margin:0;
+    padding:0;
+    background:white;
+}
 
-position: absolute;
-left: 0%;
-right: 96.83%;
-top: 4.76%;
-bottom: 12.95%;
+nav{
+    width:100%;
+    font:blue;
+}
 
-background: #1251CB;
-/* Overlay */
+ul {
+    padding:0;
+    margin:0 0 0 150px;
+    list-style:none;
+}
 
-position: absolute;
-left: 0px;
-right: 0px;
-top: 0px;
-bottom: 0px;
+li{
+    float:left;
+    margin:20px 80px;
+}
+.logo img{
+    position:absolute;
+    margin:10px;
+}
 
-background: #1251CB;
-mix-blend-mode: multiply;
+.banner{
+    position: relative;
+    width:90%; 
+    margin: 0 auto;
+}
+
+.banner img{
+    width:100%;
+}
+
+.heading{
+    color:white; 
+    position:absolute; 
+    top:30%; 
+    width: 100%; 
+    text-align:center;
+    font-size:3rem;
+    text-shadow: 5px 5px 10px black;
+}
+p{
+    color:white;
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    font-size:1rem;
+}
+
+.register{
+    color:white;
+    position:absolute;
+    top:70%;
+    width:100%;
+    text-align:center;
+    font-size:1rem;
+  }
+
+  .container{
+    width:80%;
+    margin:auto;
+}
